@@ -8,7 +8,7 @@ Celestial Bodies Database
 
 ## Description
 
-# Complete the tasks below
+### Complete the tasks below
 
 - You should create a database named universe
 
