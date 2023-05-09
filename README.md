@@ -68,7 +68,7 @@ Banco de Dados de Corpos Celestes
 
 - Você deve criar um banco de dados chamado "universe".
 
--Certifique-se de se conectar ao seu banco de dados com \c universe. Em seguida, você deve adicionar tabelas chamadas "galaxy", "star", "planet" e "moon".
+- Certifique-se de se conectar ao seu banco de dados com \c universe. Em seguida, você deve adicionar tabelas chamadas "galaxy", "star", "planet" e "moon".
 
 - Cada tabela deve ter uma chave primária.
 
